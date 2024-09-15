@@ -6,7 +6,7 @@ type StatCardProps = {
   count: number;
   label: string;
   icon: string;
-};
+}; 
 
 export const StatCard = ({ count = 0, label, icon, type }: StatCardProps) => {
   return (
