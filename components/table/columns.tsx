@@ -1,5 +1,5 @@
 "use client";
-
+ 
 import { ColumnDef } from "@tanstack/react-table";
 import Image from "next/image";
 import { Doctors } from "@/constants";
