@@ -2,9 +2,9 @@ Project Link - https://well-care-fw2b3yetp-siddharaj-yadavs-projects.vercel.app/
  
 <div align="center">
   <br />
-    <a href="" target="_blank">  
+<!--     <a href="" target="_blank">  
       <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner"> 
-    </a> 
+    </a>  -->
   <br /> 
 
   <div>
@@ -17,7 +17,7 @@ Project Link - https://well-care-fw2b3yetp-siddharaj-yadavs-projects.vercel.app/
   <h3 align="center">A HealthCare Management System</h3>
 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">⚙️ Tech Stack</a> 
 
 - Next.js
 - Appwrite
