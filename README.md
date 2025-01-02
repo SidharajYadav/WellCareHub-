@@ -1,6 +1,6 @@
 Project Link - https://well-care-fw2b3yetp-siddharaj-yadavs-projects.vercel.app/  
     
-<div align="center">
+<div align="center"> 
   <br />
 <!--     <a href="" target="_blank">  
       <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner"> 
