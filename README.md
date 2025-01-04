@@ -21,7 +21,7 @@ Project Link - https://well-care-fw2b3yetp-siddharaj-yadavs-projects.vercel.app/
 
 - Next.js
 - Appwrite
-- Typescript
+- Typescript 
 - TailwindCSS
 - ShadCN
 - Twilio
