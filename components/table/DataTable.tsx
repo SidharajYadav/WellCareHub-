@@ -7,7 +7,7 @@ import {
   getCoreRowModel,
   useReactTable,
 } from "@tanstack/react-table";
-import Image from "next/image";
+import Image from "next/image"; 
 import { redirect } from "next/navigation";
 import { useEffect } from "react";
 import { Button } from "@/components/ui/button"; 
