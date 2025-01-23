@@ -6,7 +6,7 @@ import { useDropzone } from "react-dropzone";
  
 import { convertFileToUrl } from "@/lib/utils";
  
-type FileUploaderProps = {
+type FileUploaderProps = { 
   files: File[] | undefined;
   onChange: (files: File[]) => void;
 };
